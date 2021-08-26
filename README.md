@@ -5,7 +5,7 @@
 I like:
 - :guitar: playing the guitar
 - :beer: whiskey and cola
-- :brush: graphic design
+- :pen: graphic design
 
 Can't live without:
 - coding :heart:
