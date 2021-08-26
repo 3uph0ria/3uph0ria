@@ -41,7 +41,7 @@ Can't live without:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="RedBeanPHP" width="26px" src="https://gs-och.ru/git/3uph0ria/img/red-bean-php.png" />
 
-###
+### ᅠ
 
 <img align="left" alt="C#" width="26px" src="https://gs-och.ru/git/3uph0ria/img/c-sharp.png" />
 <img align="left" alt="ASP MVC" width="26px" src="https://gs-och.ru/git/3uph0ria/img/asp-mvc.png" />
@@ -50,7 +50,7 @@ Can't live without:
 <img align="left" alt="WPF" width="26px" src="https://gs-och.ru/git/3uph0ria/img/wpf.png" />
 <img align="left" alt="Entity Frame Work" width="26px" src="https://gs-och.ru/git/3uph0ria/img/ef.png" />
 
-###
+### ᅠ
 
 #### Design)
 
