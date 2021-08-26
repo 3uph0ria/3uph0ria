@@ -49,6 +49,7 @@ Can't live without:
 <img align="left" alt="ASP API" width="26px" src="https://gs-och.ru/git/3uph0ria/img/asp-api.png" />
 <img align="left" alt="WPF" width="26px" src="https://gs-och.ru/git/3uph0ria/img/wpf.png" />
 <img align="left" alt="Entity Frame Work" width="26px" src="https://gs-och.ru/git/3uph0ria/img/ef.png" />
+<img align="left" alt="Entity Frame Work" width="26px" src="https://gs-och.ru/git/3uph0ria/img/material-design.png" />
 
 ### ᅠ
 
