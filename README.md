@@ -62,3 +62,17 @@ Can't live without:
 [instagram]: https://www.instagram.com/kulhazk3r/
 [vk]: https://vk.com/kulhazk3r
 [telegram]: tg://resolve?domain=s3rgey
+
+<br />
+
+### My showcase project on ASP.NET
+[click](https://github.com/3uph0ria/molotok34-asp)
+
+<br />
+
+### My active project (PHP)
+Online Check Bot is a cross-platform bot for VK, Telegram and Discord messengers. Main functions of the bot - informing players with up-to-date information about the server and administering the conversation. Most important advantage of the bot is the web control panel with very flexible settings and open API ([API documentation](https://gs-och.ru/och/api/documentation.php#intro), [Bot documentation](https://vk.com/@onlinecheckbot-obnovlenie-bota-v20-10062020)).
+
+Presently we have: 55 clients and 11000+ activity users.
+Reviews and additional information in our [group](https://vk.com/onlinecheckbot)
+
