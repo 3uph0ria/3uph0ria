@@ -66,8 +66,8 @@ Can't live without:
 <br />
 <br />
 
-### My showcase project on ASP.NET
-[click](https://github.com/3uph0ria/molotok34-asp).
+### My showcase project on C#
+[Click](https://github.com/3uph0ria/molotok34-asp).
 
 <br />
 
