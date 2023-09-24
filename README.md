@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Sergey
 
-## I'm a C# Developer
+## I'm a Full-stack Developer
 
 I like:
 - :guitar: playing the guitar
